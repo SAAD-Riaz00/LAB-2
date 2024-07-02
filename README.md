@@ -1,2 +1,2 @@
 # LAB-2
-creating repo for lab 2
+LAB 2 FILE IS HERE
